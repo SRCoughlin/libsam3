@@ -1,4 +1,4 @@
-CFLAGS := -Wall -g -O2 -std=gnu99
+CFLAGS := -Wall -g -O2 -std=gnu99 -fPIC
 
 SRCS := \
 	src/libsam3/libsam3.c \
